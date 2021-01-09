@@ -1,0 +1,5 @@
+[gerrit]
+host=192.168.221.133
+port=29418
+project=gerrit
+defaultbranch=master
